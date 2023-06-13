@@ -4,4 +4,4 @@ Checker Tool for procurement books / เครื่องมือตรวจ�
 # BLOG
 my blog: <a href = "https://medium.com/@pataradany/teeor-the-first-procurement-books-checker-tool-of-thailand-8c794987fbba">MEDIUM</a>
 # DEPLOYMENT
-TEERO: https://fifadotjs-teeor-ai-builder.hf.space
+TEEOR: https://fifadotjs-teeor-ai-builder.hf.space
